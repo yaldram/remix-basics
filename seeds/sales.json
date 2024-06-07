@@ -1,0 +1,32 @@
+[
+  {
+    "customer": "Olivia Martin",
+    "email": "olivia.martin@email.com",
+    "amount": "+$1,999.00",
+    "avatar": "OM"
+  },
+  {
+    "customer": "Jackson Lee",
+    "email": "jackson.lee@email.com",
+    "amount": "+$39.00",
+    "avatar": "JL"
+  },
+  {
+    "customer": "Isabella Nguyen",
+    "email": "isabella.nguyen@email.com",
+    "amount": "+$299.00",
+    "avatar": "IN"
+  },
+  {
+    "customer": "William Kim",
+    "email": "will@email.com",
+    "amount": "+$99.00",
+    "avatar": "WK"
+  },
+  {
+    "customer": "Sofia Davis",
+    "email": "sofia.davis@email.com",
+    "amount": "+$39.00",
+    "avatar": "SD"
+  }
+]

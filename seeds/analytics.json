@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Total Revenue",
+    "value": "$45,231.89",
+    "change": "+20.1% from last month"
+  },
+  {
+    "title": "Subscriptions",
+    "value": "+2350",
+    "change": "+180.1% from last month"
+  },
+  {
+    "title": "Sales",
+    "value": "+12,234",
+    "change": "+19% from last month"
+  },
+  {
+    "title": "Active Now",
+    "value": "+573",
+    "change": "+22% from last month"
+  }
+]
+
