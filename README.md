@@ -1,36 +1,48 @@
-# Welcome to Remix + Vite!
+# Remix Basics
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/guides/vite) for details on supported features.
+Basic Concepts of Remix.js
 
-## Development
+## Getting Started
 
-Run the Vite dev server:
+Follow the steps below to set up the project locally.
 
-```shellscript
-npm run dev
-```
+### Prerequisites
 
-## Deployment
+- Make sure you have [Node.js](https://nodejs.org/) installed.
+- npm (usually comes with Node.js)
 
-First, build your app for production:
+### Installation
 
-```sh
-npm run build
-```
+1. **Clone this repository**
 
-Then run the app in production mode:
+   ```sh
+   git clone https://github.com/yaldram/remix-basics.git
+   cd remix-basics
+   ```
 
-```sh
-npm start
-```
+2. **Install dependencies**
 
-Now you'll need to pick a host to deploy it to.
+   ```sh
+   npm install
+   ```
 
-### DIY
+3. **Run database migrations**
 
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
+   ```sh
+   npm run migrations:up
+   ```
 
-Make sure to deploy the output of `npm run build`
+4. **Seed the database**
 
-- `build/server`
-- `build/client`
+   ```sh
+   npm run seed:db
+   ```
+
+5. **Start the development server**
+
+   ```sh
+   npm run dev
+   ```
+
+6. **Visit the application**
+   Open your browser and go to `http://localhost:5173`
